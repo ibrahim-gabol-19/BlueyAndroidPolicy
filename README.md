@@ -1,6 +1,5 @@
 # BlueyAndroidPolicy
 Privacy Policy for Bluey Android
-<img src="https://github.com/user-attachments/assets/d9b341ee-c2e1-4c67-9c1d-5bb2c1049177" width="400" height="400">
 
 
 # Bluey! A Bluetooth Chat System for Android
